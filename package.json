@@ -1,0 +1,9 @@
+﻿{
+  "name": "akshaya-seva-connect",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Akshaya Seva Connect - Mid-Day Meal Digital Operations Platform",
+  "scripts": {
+    "build": "echo 'Static build ready'"
+  }
+}
